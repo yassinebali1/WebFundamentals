@@ -173,4 +173,18 @@ h2 {
     border-radius: 100px;
     
 }
+img{
+    border-radius: 50px;
+    width: 55px; 
+}
+h4{
+    background-color: #333;
+    color: white;
+    padding: 25px;
+}
+h3{
+    background-color: #333;
+    padding: 23px;
+    color: white;
+}
 
